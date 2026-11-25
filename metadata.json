@@ -1,0 +1,7 @@
+{
+  "name": "ReviewIQ – AI-Powered Customer Review & Sentiment Analytics Platform",
+  "description": "Intelligent platform that analyzes customer reviews, classifies sentiment, extracts recurring themes, and delivers actionable AI-powered business insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
